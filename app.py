@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Configuration constants
-PDF_FILE_PATH = "pdfs/ali_prodfile.pdf"  # replace the own pdf document path
+PDF_FILE_PATH = "pdfs/ali_profile.pdf"  # replace the own pdf document path
 MODEL_NAME = "deepseek-r1:1.5b"
 
 # FastAPI application setup
