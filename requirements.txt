@@ -6,3 +6,5 @@ langchain-experimental==0.3.4
 langchain-ollama==0.2.3
 pdfplumber==0.11.5
 faiss-cpu==1.10.0
+fastapi
+uvicorn
